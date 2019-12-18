@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget_text">Add widget</string>
+</resources>
