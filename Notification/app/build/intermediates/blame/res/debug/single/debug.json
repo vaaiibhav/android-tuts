@@ -928,10 +928,6 @@
         "source": "C:\\Users\\vaaii\\.gradle\\caches\\transforms-2\\files-2.1\\906744c4ddcbc384c5a8d2d69414f8fa\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\vaaii\\Documents\\tutorials\\newtuts\\android-tuts\\Notification\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web_view.xml.flat",
-        "source": "C:\\Users\\vaaii\\Documents\\tutorials\\newtuts\\android-tuts\\Notification\\app\\src\\main\\res\\layout\\activity_web_view.xml"
-    },
-    {
         "merged": "C:\\Users\\vaaii\\Documents\\tutorials\\newtuts\\android-tuts\\Notification\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\vaaii\\.gradle\\caches\\transforms-2\\files-2.1\\906744c4ddcbc384c5a8d2d69414f8fa\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
