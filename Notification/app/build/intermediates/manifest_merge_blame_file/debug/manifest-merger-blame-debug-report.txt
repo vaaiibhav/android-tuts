@@ -20,7 +20,7 @@
 15        android:allowBackup="true"
 15-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:9:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.0.1] C:\Users\vaaii\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
+16-->[androidx.core:core:1.0.1] C:\Users\vaaii\.gradle\caches\transforms-2\files-2.1\8f8ab13dc8f4e84e14a8bb3d9ac92bc4\core-1.0.1\AndroidManifest.xml:22:18-86
 17        android:debuggable="true"
 18        android:icon="@mipmap/ic_launcher"
 18-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:10:9-43
@@ -30,41 +30,40 @@
 20-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
 21-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:13:9-35
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:14:9-40
-24        <receiver android:name="com.example.notification.NewAppWidget" >
-24-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:16:9-24:20
-24-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:16:19-47
-25            <intent-filter>
-25-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:17:13-19:29
-26                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-26-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:18:17-84
-26-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:18:25-81
-27            </intent-filter>
-28
-29            <meta-data
-29-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:21:13-23:63
-30                android:name="android.appwidget.provider"
-30-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:22:17-58
-31                android:resource="@xml/new_app_widget_info" />
-31-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:23:17-60
-32        </receiver>
-33
-34        <activity android:name="com.example.notification.MainActivity" >
-34-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:26:9-32:20
-34-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:26:19-47
-35            <intent-filter>
-35-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:27:13-31:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:28:17-69
-36-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:28:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:30:17-77
-38-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:30:27-74
-39            </intent-filter>
-40        </activity>
-41    </application>
-42
-43</manifest>
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:14:9-40
+23        <receiver android:name="com.example.notification.NewAppWidget" >
+23-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:16:9-24:20
+23-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:16:19-47
+24            <intent-filter>
+24-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:17:13-19:29
+25                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+25-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:18:17-84
+25-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:18:25-81
+26            </intent-filter>
+27
+28            <meta-data
+28-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:21:13-23:63
+29                android:name="android.appwidget.provider"
+29-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:22:17-58
+30                android:resource="@xml/new_app_widget_info" />
+30-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:23:17-60
+31        </receiver>
+32
+33        <activity android:name="com.example.notification.MainActivity" >
+33-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:26:9-32:20
+33-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:26:19-47
+34            <intent-filter>
+34-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:27:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:28:17-69
+35-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:28:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:30:17-77
+37-->C:\Users\vaaii\Documents\tutorials\newtuts\android-tuts\Notification\app\src\main\AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>
