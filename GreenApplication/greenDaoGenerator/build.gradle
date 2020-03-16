@@ -1,0 +1,10 @@
+apply plugin: 'java-library'
+apply plugin: 'application'// add this
+
+mainClassName = "com.vcs.greenapplication"//
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
